@@ -1,6 +1,6 @@
 # Mind The Web
 
-This repository contains supplementary materials for our research on adversarial prompt injection attacks against web-use agents powered by LLMs.
+This repository contains supplementary materials for our research on task-aligned injection attacks against web-use agents powered by LLMs.
 
 ## Contents
 
